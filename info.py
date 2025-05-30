@@ -17,9 +17,9 @@ def is_enabled(value, default):
 # ============================
 # Bot Information Configuration
 # ============================
-SESSION = environ.get('SESSION', 'dreamcinezone_search')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
+SESSION = environ.get('SESSION', 'Media_search)
+API_ID = int(environ.get('API_ID', '21529799'))
+API_HASH = environ.get('API_HASH', 'a98026ff52821a5c43b0e440b978c131')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # ============================
