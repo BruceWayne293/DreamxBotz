@@ -97,7 +97,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+eY8zh1wCgaI5MmM1')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/KL55_LINKS')
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/KL55_LINKS')
 DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK = environ.get('DREAMCINEZONE_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/KL55_LINKS')
-OWNERID = int(os.environ.get('OWNERID', 'https://t.me/KL55_LINKS'))  # Replace with the actual admin ID
+OWNERID = int(os.environ.get('OWNERID', '21529799'))  # Replace with the actual admin ID
 
 # ============================
 # User Configuration
